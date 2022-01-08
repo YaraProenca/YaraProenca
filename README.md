@@ -21,9 +21,7 @@
   <img align="center" alt="Yah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Yah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Yah-gif-pic" height="100" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/905619285672595506/905619348255821824/picasion.com_f4b5c199770cce070a97b1138a629bd2.gif">
-</div>
+ 
   
   
   ##
