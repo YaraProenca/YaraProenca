@@ -2,7 +2,8 @@
 
 <br>
 
-- 🌱 I’m currently learning JS. 
+- 🌱 Full-Stack Developer. 
+- 😏 Progressing and studying always!
 - 😄 Pronouns: She/Her.
 
 <br><br>
